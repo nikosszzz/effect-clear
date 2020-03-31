@@ -1,0 +1,15 @@
+name: MythicEffectClear
+main: NikosProGamer\MythicEffectClear\MythicEffectClear
+version: 1.0.0
+api: 3.0.0, 4.0.0
+author: NikosProGamer
+description: A plugin made for Mythic Network, in PHP by NikosProGamer that removes all bad effects from you!
+
+commands:
+  bless:
+    description: Bless yourself by removing bad effects!
+permissions:
+  bless:
+    default: op
+    description: Allows player to bless himself!
+    children:
