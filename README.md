@@ -1,4 +1,3 @@
-[![](https://poggit.pmmp.io/shield.state/EffectClear)](https://poggit.pmmp.io/p/EffectClear)
 <a href="https://poggit.pmmp.io/p/EffectClear"><img src="https://poggit.pmmp.io/shield.state/EffectClear"></a>
 
 # Info
